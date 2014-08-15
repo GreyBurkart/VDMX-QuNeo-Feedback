@@ -13,3 +13,5 @@ The QuNeo -- while flexible -- can be a pain to map for feedback for several rea
 QuNeo manual pages 38 and 39 are worth just printing out because you end up referencing them all the bloody time. Only the sliders and rotaries use CC for feedback, the rest are Notes, as seen in another forum example. Also, having QuNeo local LED control on or off makes a difference whether a pad will show feedback or not later on, ack. I ended up creating 2 dedicated presets for mapping outputs. For all the caveats above, I've gotten good use out of the QuNeo. You _do_ pay in time spent for its flexibility, but hey -- you can put VU meters and das blinkenlights just about anywhere.
 
 One more opinion: Don't bother using the rotary pads as encoders unless you hate yourself. They have a nonstandard output which VDMX doesn't read well (confirmed with dlublin of VidVox a while ago, we were both scratching our heads).
+
+![](VDMX-QuNeo_Feedback.png)
